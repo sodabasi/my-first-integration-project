@@ -1,0 +1,55 @@
+{
+  "project": "aws-jupyter-integration",
+  "timestamp": "2025-07-23 19:23:26",
+  "data": [
+    {
+      "date": "2025-01-01",
+      "sales": 850,
+      "customers": 44,
+      "region": "North",
+      "avg_order_value": 19.318181818181817
+    },
+    {
+      "date": "2025-01-02",
+      "sales": 514,
+      "customers": 30,
+      "region": "East",
+      "avg_order_value": 17.133333333333333
+    },
+    {
+      "date": "2025-01-03",
+      "sales": 159,
+      "customers": 20,
+      "region": "East",
+      "avg_order_value": 7.95
+    },
+    {
+      "date": "2025-01-04",
+      "sales": 483,
+      "customers": 96,
+      "region": "South",
+      "avg_order_value": 5.03125
+    },
+    {
+      "date": "2025-01-05",
+      "sales": 828,
+      "customers": 75,
+      "region": "South",
+      "avg_order_value": 11.04
+    }
+  ],
+  "summary": {
+    "total_sales": 15501,
+    "avg_customers": 55.6,
+    "total_customers": 1668,
+    "date_range": {
+      "start": "2025-01-01",
+      "end": "2025-01-30"
+    }
+  },
+  "statistics": {
+    "max_sales": 995,
+    "min_sales": 109,
+    "avg_order_value": 11.85
+  }
+}
